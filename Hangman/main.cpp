@@ -1,6 +1,6 @@
-/* Joel Plotnik - SI: 006642110
-   CSIS 212 : Machine Organization & Assembly Language
-   Duy Nguyen, Ph.D. */
+/* Joel Plotnik
+   CSCI 212 : Machine Organization & Assembly Language
+   Hangman */
 
 #include <stdio.h>
 #include <stdlib.h>
