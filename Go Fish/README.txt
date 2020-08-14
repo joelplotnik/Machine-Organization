@@ -3,9 +3,6 @@ deal the cards, ask for a card, and lay down the cards. For this implementation,
 Basically the players take turns asking the other player for a card of a certain rank, which the other player must hand over if they have such a card.  
 The players goal is to collect matching pairs of cards (of the same rank), placing them on the table.  Score is kept of how many pairs each player has because 
 the number of cards each player may hold at any moment in time can be anything (less than 47 of course). 
-1. Allocate 47 element array for each player and keep track of the cards in hand; 
-2. Use the stack to store the players’ hand; or 
-3. Dynamically resize the players’ hands each time the number of cards changes.
 The program simulates the playing of the game, with two players (player 1 is the user, player 2 is the computer). 
 
 Rules: Player1 and CPU both start with 5 cards. If Player1 or CPU start with a 
